@@ -23,7 +23,7 @@ Install a Text Editor. Both Visual Studio Code and Atom are good plain text edit
 - [GitHub Desktop](https://desktop.github.com/)
 - [GitHub Student Pack](https://education.github.com/pack)
 
-
+- CHANGING STUFF
 
 ## Learning Resources
 
